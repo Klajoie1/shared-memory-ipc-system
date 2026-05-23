@@ -15,6 +15,9 @@ A C-based Linux systems programming project implementing inter-process communica
 
 ## Build
 gcc Producer.c -o Producer
+
 gcc Consumer.c -o Consumer
+
 gcc Sender.c -o Sender
+
 gcc Receiver.c -o Receiver
